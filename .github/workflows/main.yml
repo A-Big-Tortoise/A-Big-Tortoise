@@ -12,6 +12,10 @@ on:
   push:
     branches:
     - master
+
+  push:
+    branches:
+    - main
     
   
 
